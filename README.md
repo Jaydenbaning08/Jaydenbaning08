@@ -2,7 +2,7 @@ Jayden Baning
 
 CompTIA Security+ certified cybersecurity graduate focused on Security Operations and threat detection.
 
-Current Focus
+Current Focus:
 
 Splunk authentication monitoring
 
@@ -12,7 +12,7 @@ Windows Security Event Log analysis
 
 Incident documentation & SOC triage workflow
 
-Technical Skills
+Technical Skills:
 
 Splunk (SIEM)
 
