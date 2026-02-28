@@ -1,16 +1,29 @@
-## Hi there 👋
+Jayden Baning
 
-<!--
-**Jaydenbaning08/Jaydenbaning08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CompTIA Security+ certified cybersecurity graduate focused on Security Operations and threat detection.
 
-Here are some ideas to get you started:
+Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Splunk authentication monitoring
+
+Failed login & brute force detection
+
+Windows Security Event Log analysis
+
+Incident documentation & SOC triage workflow
+
+Technical Skills
+
+Splunk (SIEM)
+
+Windows Event Logs
+
+Log Analysis
+
+Incident Response
+
+Active Directory fundamentals
+
+Projects
+
+Splunk Failed Login & Brute Force Detection (in progress)
