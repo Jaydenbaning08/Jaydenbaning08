@@ -26,4 +26,4 @@ Active Directory fundamentals
 
 Projects
 
-Splunk Failed Login & Brute Force Detection (in progress)
+Splunk Failed Login & Brute Force Detection
