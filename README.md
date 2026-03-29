@@ -1,29 +1,26 @@
-Jayden Baning
+# Jayden Baning
 
-CompTIA Security+ certified cybersecurity graduate focused on Security Operations and threat detection.
+Cybersecurity graduate focused on Tier 1 SOC Analyst roles with hands-on experience detecting and analyzing failed login and brute force activity using Splunk.
 
-Current Focus:
+## Detection Experience
+- Built detection logic using Windows Security Event Logs (Event ID 4625)
+- Identified brute force and password spraying activity through log correlation
+- Created threshold-based alerts to detect suspicious authentication behavior
 
-Splunk authentication monitoring
+## Technical Skills
+- Splunk (SIEM)
+- Windows Event Logs (4624, 4625, 4672)
+- Log Analysis
+- Incident Response & Triage
+- Active Directory Fundamentals
 
-Failed login & brute force detection
+## Projects
+### Splunk Failed Login & Brute Force Detection
+- Analyzed failed login attempts using Splunk queries
+- Detected abnormal login patterns and potential attack behavior
+- Simulated SOC-style investigation and documented findings
 
-Windows Security Event Log analysis
-
-Incident documentation & SOC triage workflow
-
-Technical Skills:
-
-Splunk (SIEM)
-
-Windows Event Logs
-
-Log Analysis
-
-Incident Response
-
-Active Directory fundamentals
-
-Projects
-
-Splunk Failed Login & Brute Force Detection
+## Current Focus
+- Improving detection engineering skills
+- Building SOC-level investigation projects
+- Strengthening incident response workflows
